@@ -1,7 +1,7 @@
 # 2023_NAPLES
 Material for course: _Introductory course to Machine learning and Deep Learning subjects with examples in remote sensing._
 
-**_Lesson 1: *_Machine learning concepts_**
+**_ Lesson 1: *_Machine learning concepts _**
   + Types of Learning
   + Unsupervised Learning
 
