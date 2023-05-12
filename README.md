@@ -1,7 +1,7 @@
 # 2023_NAPLES
 Material for course: _Introductory course to Machine learning and Deep Learning subjects with examples in remote sensing._
 
-** Lesson 1: *_Machine learning concepts_*
+**_Lesson 1: *_Machine learning concepts_**
   + Types of Learning
   + Unsupervised Learning
 
@@ -9,7 +9,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
   * K-means with sklearn
   * K-means with OpenCV
 
-** Lesson 2: *_Supervised and unsupervised learning in remote sensing_*
+**_Lesson 2: *_Supervised and unsupervised learning in remote sensing_**
   * Clustering satellite imagery with QGIS-SCP
 
   + Some Supervised classification methods for images in RS
