@@ -12,7 +12,6 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
 ## Lesson 2: _Supervised and unsupervised learning in remote sensing_
     
     * Clustering satellite imagery with QGIS-SCP
-
   + Some Supervised classification methods for images in RS
 
     * Supervised learning with satellite imagery Qgis-SCP
