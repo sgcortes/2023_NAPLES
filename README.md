@@ -13,6 +13,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
       5. [Numpy refresher 2](https://github.com/sgcortes/2023_NAPLES/blob/5bf380a9e0bc25b28c42d1e8d915fda595351697/02_Numpy_Refresher_Part_2.ipynb)
     * [K-means with sklearn](https://github.com/sgcortes/2023_NAPLES/blob/0e640e032071648da8952586aab398b6ebcd29d2/Lect1_1_ML%26DL_K_MEANS_sklearn.ipynb)
     * [K-means with OpenCV](https://github.com/sgcortes/2023_NAPLES/blob/693b12d554bbc57ac564f5da5a15985d06e2ade2/Lect1_2_ML%26DL_K_MEANS_opecv.ipynb)
+    * [Iris dataset](https://github.com/sgcortes/2023_NAPLES/blob/88646ca9bd7ce30a758f323091367de0dc28c592/iris.csv)
 
 ## Lesson 2: _Supervised and unsupervised learning in remote sensing_
   +
