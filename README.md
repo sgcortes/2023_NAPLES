@@ -8,9 +8,9 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
     * Short Python reminder
       1. [Python very Basics](https://github.com/sgcortes/2023_NAPLES/blob/892939d770f5865e56bc2a7a8b1ddc10341fceb9/Lect1_0_Python_Basics_Variables_Lists_Loops_Functions.ipynb)
       2. [Numpy Refresher 0](https://github.com/sgcortes/2023_NAPLES/blob/def789f6d0ac22d0323706dc7e3576b4d3ca60d4/nLect1_0b_Python_NumPy_Reminder_short.ipynb)
-      3. [Data reading](https://github.com/sgcortes/2023_NAPLES/blob/2783f60da971fee34198ae73966c358175e6816d/01_Data_Processing.ipynb)
-      4. [Matplotlib & Pandas Basics](https://github.com/sgcortes/2023_NAPLES/blob/30ec4bc0435427b3c0153879f2269eb9949a64a5/Lect1_6__Matplotlib_PandasBasic.ipynb)
-      5. [Basic image reading with OpenCV](https://github.com/sgcortes/2023_NAPLES/blob/a1f6aa0af47c7d2605e4649404ab8a58aeb34a62/Lect1_ImagesOpenCV.ipynb)
+      3. [Matplotlib & Pandas Basics](https://github.com/sgcortes/2023_NAPLES/blob/30ec4bc0435427b3c0153879f2269eb9949a64a5/Lect1_6__Matplotlib_PandasBasic.ipynb)
+      4. [Basic image reading with OpenCV](https://github.com/sgcortes/2023_NAPLES/blob/a1f6aa0af47c7d2605e4649404ab8a58aeb34a62/Lect1_ImagesOpenCV.ipynb)
+      5. [Data reading](https://github.com/sgcortes/2023_NAPLES/blob/2783f60da971fee34198ae73966c358175e6816d/01_Data_Processing.ipynb)
       6. [Numpy refresher 1](https://github.com/sgcortes/2023_NAPLES/blob/892d5464c3d1886799b0f8f57677edaa66ef652c/01_Numpy_Refresher_Part_1.ipynb)
       7. [Numpy refresher 2](https://github.com/sgcortes/2023_NAPLES/blob/5bf380a9e0bc25b28c42d1e8d915fda595351697/02_Numpy_Refresher_Part_2.ipynb)
       
