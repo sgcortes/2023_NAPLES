@@ -10,9 +10,10 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
       2. [Numpy Refresher 0](https://github.com/sgcortes/2023_NAPLES/blob/def789f6d0ac22d0323706dc7e3576b4d3ca60d4/nLect1_0b_Python_NumPy_Reminder_short.ipynb)
       3. [Data reading](https://github.com/sgcortes/2023_NAPLES/blob/2783f60da971fee34198ae73966c358175e6816d/01_Data_Processing.ipynb)
       4. [Matplotlib & Pandas Basics](https://github.com/sgcortes/2023_NAPLES/blob/30ec4bc0435427b3c0153879f2269eb9949a64a5/Lect1_6__Matplotlib_PandasBasic.ipynb)
-      5. [Numpy refresher 1](https://github.com/sgcortes/2023_NAPLES/blob/892d5464c3d1886799b0f8f57677edaa66ef652c/01_Numpy_Refresher_Part_1.ipynb)
-      6. [Numpy refresher 2](https://github.com/sgcortes/2023_NAPLES/blob/5bf380a9e0bc25b28c42d1e8d915fda595351697/02_Numpy_Refresher_Part_2.ipynb)
-      7. [Basic image reading with OpenCV](https://github.com/sgcortes/2023_NAPLES/blob/a1f6aa0af47c7d2605e4649404ab8a58aeb34a62/Lect1_ImagesOpenCV.ipynb)
+      5. [Basic image reading with OpenCV](https://github.com/sgcortes/2023_NAPLES/blob/a1f6aa0af47c7d2605e4649404ab8a58aeb34a62/Lect1_ImagesOpenCV.ipynb)
+      6. [Numpy refresher 1](https://github.com/sgcortes/2023_NAPLES/blob/892d5464c3d1886799b0f8f57677edaa66ef652c/01_Numpy_Refresher_Part_1.ipynb)
+      7. [Numpy refresher 2](https://github.com/sgcortes/2023_NAPLES/blob/5bf380a9e0bc25b28c42d1e8d915fda595351697/02_Numpy_Refresher_Part_2.ipynb)
+      
     * [K-means with sklearn](https://github.com/sgcortes/2023_NAPLES/blob/0e640e032071648da8952586aab398b6ebcd29d2/Lect1_1_ML%26DL_K_MEANS_sklearn.ipynb)
     * [K-means with OpenCV](https://github.com/sgcortes/2023_NAPLES/blob/693b12d554bbc57ac564f5da5a15985d06e2ade2/Lect1_2_ML%26DL_K_MEANS_opecv.ipynb)
     * [Iris dataset](https://github.com/sgcortes/2023_NAPLES/blob/88646ca9bd7ce30a758f323091367de0dc28c592/iris.csv)
