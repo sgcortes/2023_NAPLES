@@ -6,7 +6,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
   + [Unsupervised Learning](https://github.com/sgcortes/2023_NAPLES/blob/c6b5a26f80a1b2ff8a7277e57f563e1f288360c3/Lect_1_2_ML_UnspervisedLearning.pdf)
 
     * Short Python reminder
-      1. [Python very Basics]([https://github.com/sgcortes/2023_NAPLES/blob/c510f5e771ad8b1c7841f5c6f96c3ec963330407/Lect1_0_Python_Basics_Variables_Lists_Loops_Numpy.ipynb](https://github.com/sgcortes/2023_NAPLES/blob/892939d770f5865e56bc2a7a8b1ddc10341fceb9/Lect1_0_Python_Basics_Variables_Lists_Loops_Functions.ipynb)
+      1. [Python very Basics (https://github.com/sgcortes/2023_NAPLES/blob/892939d770f5865e56bc2a7a8b1ddc10341fceb9/Lect1_0_Python_Basics_Variables_Lists_Loops_Functions.ipynb)
       2. [Numpy Refresher 0](https://github.com/sgcortes/2023_NAPLES/blob/b31edf4b3c8bb65cc28000875809abe267a66cc5/Lect1_0b_Python_NumPy_Reminder_short.ipynb)
       3. [Data reading](https://github.com/sgcortes/2023_NAPLES/blob/2783f60da971fee34198ae73966c358175e6816d/01_Data_Processing.ipynb)
       4. [Matplotlib & Pandas Basics](https://github.com/sgcortes/2023_NAPLES/blob/30ec4bc0435427b3c0153879f2269eb9949a64a5/Lect1_6__Matplotlib_PandasBasic.ipynb)
