@@ -23,7 +23,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
 ## Lesson 2: _Supervised and unsupervised learning in remote sensing_
 + 
 
-    * [Clustering satellite imagery with QGIS-SCP](https://github.com/sgcortes/2023_NAPLES/blob/860b52830c7f5f24bde649c825af583c89c98751/ClusteringWithQGIS-SCP%20desdesemiautomaticclassificationmanual-7-9.pdf)
+    * [Clustering satellite imagery with QGIS-SCP] (https://github.com/sgcortes/2023_NAPLES/blob/860b52830c7f5f24bde649c825af583c89c98751/ClusteringWithQGIS-SCP%20desdesemiautomaticclassificationmanual-7-9.pdf)
   + [Some Supervised classification methods for images in RS](https://github.com/sgcortes/2023_NAPLES/blob/e360f738b5224fd6179fc1e26f95088d5ac2d4e2/Lect2_1_Supervised_ClasificacionSCP_QGISv4.pdf)
 
     * [Supervised learning with satellite imagery Qgis-SCP](https://github.com/sgcortes/2023_NAPLES/blob/84a5aa4c40503fd8d5945a546a54db6a6ebba0fd/Lect2_1_Supervised_ClasificacionSCP_QGISv4.pdf)
