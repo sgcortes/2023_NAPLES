@@ -24,9 +24,8 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
     * Clustering satellite imagery with QGIS-SCP
   + [Some Supervised classification methods for images in RS](https://github.com/sgcortes/2023_NAPLES/blob/e360f738b5224fd6179fc1e26f95088d5ac2d4e2/Lect2_1_Supervised_ClasificacionSCP_QGISv4.pdf)
 
-
-    * Supervised learning with satellite imagery Qgis-SCP
-    * Dimensional reduction: PCA. Principal Component Analysis (QGIS-SCP)
+    * [Supervised learning with satellite imagery Qgis-SCP](https://github.com/sgcortes/2023_NAPLES/blob/84a5aa4c40503fd8d5945a546a54db6a6ebba0fd/Lect2_1_Supervised_ClasificacionSCP_QGISv4.pdf)
+  
 
 
 
