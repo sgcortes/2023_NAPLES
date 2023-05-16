@@ -3,7 +3,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
 
 ## Lesson 1: _Machine learning concepts_
   + [Types of Learning](https://github.com/sgcortes/2023_NAPLES/blob/c6b5a26f80a1b2ff8a7277e57f563e1f288360c3/Lect_1_1_ML%26DL_Intro.pdf)
-  + [Unsupervised Learning](https://github.com/sgcortes/2023_NAPLES/blob/c6b5a26f80a1b2ff8a7277e57f563e1f288360c3/Lect_1_2_ML_UnspervisedLearning.pdf)
+  + [Unsupervised Learning]([https://github.com/sgcortes/2023_NAPLES/blob/c6b5a26f80a1b2ff8a7277e57f563e1f288360c3/Lect_1_2_ML_UnspervisedLearning.pdf](https://github.com/sgcortes/2023_NAPLES/blob/94eed510a49b8149ccbaecca260563e737f6aab8/Lesson1__2_ML_unsupervisedLEarningV3.pdf)
 
     * Short Python reminder
       1. [Python very Basics](https://github.com/sgcortes/2023_NAPLES/blob/892939d770f5865e56bc2a7a8b1ddc10341fceb9/Lect1_0_Python_Basics_Variables_Lists_Loops_Functions.ipynb)
