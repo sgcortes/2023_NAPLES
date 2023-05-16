@@ -21,7 +21,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
     * [Task Proposal](https://github.com/sgcortes/2023_NAPLES/blob/3618b702be75c409ecb2daea264f3b21e8fd694a/Lect1_TASKS.ipynb)
 
 ## Lesson 2: _Supervised and unsupervised learning in remote sensing_
-  
+   
     * Clustering satellite imagery with QGIS-SCP
   + [Some Supervised classification methods for images in RS](https://github.com/sgcortes/2023_NAPLES/blob/e360f738b5224fd6179fc1e26f95088d5ac2d4e2/Lect2_1_Supervised_ClasificacionSCP_QGISv4.pdf)
 
