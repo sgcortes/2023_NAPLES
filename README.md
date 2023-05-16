@@ -18,7 +18,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
     * [K-means with OpenCV](https://github.com/sgcortes/2023_NAPLES/blob/693b12d554bbc57ac564f5da5a15985d06e2ade2/Lect1_2_ML%26DL_K_MEANS_opecv.ipynb)
     * [Iris dataset](https://github.com/sgcortes/2023_NAPLES/blob/88646ca9bd7ce30a758f323091367de0dc28c592/iris.csv)
     * [Task Proposal](https://github.com/sgcortes/2023_NAPLES/blob/3618b702be75c409ecb2daea264f3b21e8fd694a/Lect1_TASKS.ipynb)
-    * [Dimensional reduction: PCA. Principal Component Analysis (QGIS-SCP)] (https://github.com/sgcortes/2023_NAPLES/blob/a3f6cb21feb92a90b44b43ed10b8e59f569702fb/Lect1__4_PCAreduccionINFOcocacola.ipynb)
+    * [Dimensional reduction: PCA. Principal Component Analysis] (https://github.com/sgcortes/2023_NAPLES/blob/a3f6cb21feb92a90b44b43ed10b8e59f569702fb/Lect1__4_PCAreduccionINFOcocacola.ipynb)
 
 ## Lesson 2: _Supervised and unsupervised learning in remote sensing_
   +
