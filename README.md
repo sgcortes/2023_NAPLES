@@ -30,7 +30,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
  
 ## Lesson 3: _Neural Networks in Practice_
  + [Deep Learning. Basic Concepts](https://github.com/sgcortes/2023_NAPLES/blob/3c4e4be6ba4eac7472debf6131e0c4dba7dcab9d/Lect3_1_Deep%20LearningConceptsV2.pdf)
-  * [Multilayer Perceptron with MNIST digits dataset](https://github.com/sgcortes/2023_NAPLES/blob/cb54e99037b0cf9d6fffd9bf2de1516dca036391/Lect3_DeepL_MNIST_MLP.ipynb)
+    * [Multilayer Perceptron with MNIST digits dataset](https://github.com/sgcortes/2023_NAPLES/blob/cb54e99037b0cf9d6fffd9bf2de1516dca036391/Lect3_DeepL_MNIST_MLP.ipynb)
 
   
 
