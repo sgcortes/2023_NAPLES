@@ -26,6 +26,8 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
 
   + [Supervised learning with satellite imagery Qgis-SCP](https://github.com/sgcortes/2023_NAPLES/blob/84a5aa4c40503fd8d5945a546a54db6a6ebba0fd/Lect2_1_Supervised_ClasificacionSCP_QGISv4.pdf)
    * [SCP Qgis Plugin manual versions 7-9](https://github.com/sgcortes/2023_NAPLES/blob/e48ee73040a21fc5f1096dbe0d8ac588483c3fcd/semiautomaticclassificationmanual-7-9.pdf)
+   * [Task Proposal Lect2](https://github.com/sgcortes/2023_NAPLES/blob/ed4c146206ff339878c423ebbac16185f4e12c76/Lect2_TASKS.ipynb)
+   
   
 
 
