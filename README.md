@@ -30,7 +30,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
  
 ## Lesson 3: _Neural Networks in Practice_
  + [Deep Learning. Basic Concepts](https://github.com/sgcortes/2023_NAPLES/blob/bca45f16894f7a6ffcef308b709c8da8bab7eef3/Lect3_1_Deep%20LearningV3.pdf)
- + [Deep Learning (II)Building NN with Keras] (https://github.com/sgcortes/2023_NAPLES/blob/d3a3ddedbf282dfe95f62d2d9a96c2e62c91a0f9/Lect3_2_Deep%20LearningV4.pdf)
+ + [Deep Learning (II) Building NN with Keras] (https://github.com/sgcortes/2023_NAPLES/blob/d3a3ddedbf282dfe95f62d2d9a96c2e62c91a0f9/Lect3_2_Deep%20LearningV4.pdf)
     * [Multilayer Perceptron with MNIST digits dataset](https://github.com/sgcortes/2023_NAPLES/blob/cb54e99037b0cf9d6fffd9bf2de1516dca036391/Lect3_DeepL_MNIST_MLP.ipynb)
     * [Task: Multiclass Classification using MLP with Sentinel2 RGB dataset](https://github.com/sgcortes/2023_NAPLES/blob/691175782eb321301dcfdd91ed73bac38e849293/FILL_IN_Lect3_MLP_SENTINEL2_LAND_CLASSIFICATION.ipynb)
     
