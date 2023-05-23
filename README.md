@@ -37,6 +37,18 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
 + Neural Networks in Practice
     * [Multilayer Perceptron with MNIST digits dataset](https://github.com/sgcortes/2023_NAPLES/blob/cb54e99037b0cf9d6fffd9bf2de1516dca036391/Lect3_DeepL_MNIST_MLP.ipynb)
     * [Task: Multiclass Classification using MLP with Sentinel2 RGB dataset](https://github.com/sgcortes/2023_NAPLES/blob/691175782eb321301dcfdd91ed73bac38e849293/FILL_IN_Lect3_MLP_SENTINEL2_LAND_CLASSIFICATION.ipynb)
+
+## Lesson 5: _Convolutional Neural Networks. CNN's_
++ Convolutional Neural Networks or Convnets
+    * [Revisiting MNIST dataset with CNN´s]()
+    * [Multiclass classification with CNN. Sentinel2 RGB]()
+
+## Lesson 6: _Other applications of NN's with images_
++ Semantic Segmentation
++ Object detection. A general idea.
++ Transfer learning: Feature extraction, Fine tuning.
+    * Some examples
+
     
 
   
