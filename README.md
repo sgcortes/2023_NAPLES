@@ -30,7 +30,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
  
 ## Lesson 3 : _Neural Networks Concepts_
  + [Deep Learning. Basic Concepts (I)](https://github.com/sgcortes/2023_NAPLES/blob/bca45f16894f7a6ffcef308b709c8da8bab7eef3/Lect3_1_Deep%20LearningV3.pdf)
- + [Deep Learning (II) Building NN's with Keras](https://github.com/sgcortes/2023_NAPLES/blob/d3a3ddedbf282dfe95f62d2d9a96c2e62c91a0f9/Lect3_2_Deep%20LearningV4.pdf)
+ + [Deep Learning (II) Building NN's with Keras](https://github.com/sgcortes/2023_NAPLES/blob/c5ef926aad2334ff255a32c51463fb844a7b7c46/Lect3_2_Deep%20LearningV5.pdf)
     * [TensorFlow Playground](https://playground.tensorflow.org/)
     
 ## Lesson 4: _Neural Networks in Practice_
