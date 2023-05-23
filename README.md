@@ -29,7 +29,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
    * [Task Proposal Lect2](https://github.com/sgcortes/2023_NAPLES/blob/ed4c146206ff339878c423ebbac16185f4e12c76/Lect2_TASKS.ipynb)
  
 ## Lesson 3: _Neural Networks in Practice_
- + [Deep Learning. Basic Concepts](https://github.com/sgcortes/2023_NAPLES/blob/3c4e4be6ba4eac7472debf6131e0c4dba7dcab9d/Lect3_1_Deep%20LearningConceptsV2.pdf)
+ + [Deep Learning. Basic Concepts](https://github.com/sgcortes/2023_NAPLES/blob/bca45f16894f7a6ffcef308b709c8da8bab7eef3/Lect3_1_Deep%20LearningV3.pdf)
     * [Multilayer Perceptron with MNIST digits dataset](https://github.com/sgcortes/2023_NAPLES/blob/cb54e99037b0cf9d6fffd9bf2de1516dca036391/Lect3_DeepL_MNIST_MLP.ipynb)
     * [Task: Multiclass Classification using MLP with Sentinel2 RGB dataset](https://github.com/sgcortes/2023_NAPLES/blob/691175782eb321301dcfdd91ed73bac38e849293/FILL_IN_Lect3_MLP_SENTINEL2_LAND_CLASSIFICATION.ipynb)
 
