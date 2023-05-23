@@ -28,9 +28,12 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
    * [SCP Qgis Plugin manual versions 7-9](https://github.com/sgcortes/2023_NAPLES/blob/e48ee73040a21fc5f1096dbe0d8ac588483c3fcd/semiautomaticclassificationmanual-7-9.pdf)
    * [Task Proposal Lect2](https://github.com/sgcortes/2023_NAPLES/blob/ed4c146206ff339878c423ebbac16185f4e12c76/Lect2_TASKS.ipynb)
  
-## Lesson 3: _Neural Networks in Practice_
+## Lesson 3 : _Neural Networks Concepts_
  + [Deep Learning. Basic Concepts (I)](https://github.com/sgcortes/2023_NAPLES/blob/bca45f16894f7a6ffcef308b709c8da8bab7eef3/Lect3_1_Deep%20LearningV3.pdf)
  + [Deep Learning (II) Building NN's with Keras](https://github.com/sgcortes/2023_NAPLES/blob/d3a3ddedbf282dfe95f62d2d9a96c2e62c91a0f9/Lect3_2_Deep%20LearningV4.pdf)
+    * [TensorFlow Playground](https://playground.tensorflow.org/)
+    
+## Lesson 4: _Neural Networks in Practice_
     * [Multilayer Perceptron with MNIST digits dataset](https://github.com/sgcortes/2023_NAPLES/blob/cb54e99037b0cf9d6fffd9bf2de1516dca036391/Lect3_DeepL_MNIST_MLP.ipynb)
     * [Task: Multiclass Classification using MLP with Sentinel2 RGB dataset](https://github.com/sgcortes/2023_NAPLES/blob/691175782eb321301dcfdd91ed73bac38e849293/FILL_IN_Lect3_MLP_SENTINEL2_LAND_CLASSIFICATION.ipynb)
     
