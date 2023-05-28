@@ -40,7 +40,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
 
 ## Lesson 5: _Convolutional Neural Networks. CNN's_
 + [Convolutional Neural Networks or Convnets](https://github.com/sgcortes/2023_NAPLES/blob/0a1b36a1e533611726927ac87fe95b6bcb95a7ca/Lect5_1_DL_%20ConvolutionalNetworksV3.pdf)
-    * [Revisiting MNIST dataset with CNN´s](https://github.com/sgcortes/2023_NAPLES/blob/96cc13b31c59adb5a0b38c0ce79398a047729e8d/Lect5_1_cnn_mnistC.ipynb)
+    * [Revisiting MNIST dataset with CNN´s](https://github.com/sgcortes/2023_NAPLES/blob/8eddbc4b1c4a9f7168c7cdb1d6568fad92672743/Lect5_1_cnn_mnistC.ipynb)
     * [Multiclass classification with CNN. Sentinel2 RGB](https://github.com/sgcortes/2023_NAPLES/blob/9b378ea315327a23ad314908c63c2906becc9c84/Ex5_2_CNN_MULTI_CLASSIFICATION_rgb_SENTINEL2.ipynb)
 
 ## Lesson 6: _Other applications of NN's with images_
