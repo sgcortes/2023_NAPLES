@@ -39,7 +39,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
     * [Task: Multiclass Classification using MLP with Sentinel2 RGB dataset](https://github.com/sgcortes/2023_NAPLES/blob/691175782eb321301dcfdd91ed73bac38e849293/FILL_IN_Lect3_MLP_SENTINEL2_LAND_CLASSIFICATION.ipynb)
 
 ## Lesson 5: _Convolutional Neural Networks. CNN's_
-+ [Convolutional Neural Networks or Convnets](https://github.com/sgcortes/2023_NAPLES/blob/5f7de85926c90c17faa070046bb0fa2e0bdfa942/Lect5_1_DL_%20ConvolutionalNetworksV4.pdf)
++ [Convolutional Neural Networks or Convnets](https://github.com/sgcortes/2023_NAPLES/blob/e5ea61ff217750713f7f6ad897ea2879fd6a9df6/Lect5_1_DL_%20ConvolutionalNetworksV5.pdf))
     * [Revisiting MNIST dataset with CNN´s](https://github.com/sgcortes/2023_NAPLES/blob/8eddbc4b1c4a9f7168c7cdb1d6568fad92672743/Lect5_1_cnn_mnistC.ipynb)
     * [Multiclass classification with CNN. Sentinel2 RGB](https://github.com/sgcortes/2023_NAPLES/blob/9b378ea315327a23ad314908c63c2906becc9c84/Ex5_2_CNN_MULTI_CLASSIFICATION_rgb_SENTINEL2.ipynb)
 
