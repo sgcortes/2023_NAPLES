@@ -44,10 +44,11 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
     * [Multiclass classification with CNN. Sentinel2 RGB](https://github.com/sgcortes/2023_NAPLES/blob/9b378ea315327a23ad314908c63c2906becc9c84/Ex5_2_CNN_MULTI_CLASSIFICATION_rgb_SENTINEL2.ipynb)
 
 ## Lesson 6: _Other applications of NN's with images_
-+ Semantic Segmentation
-+ Object detection. A general idea.
-+ Transfer learning: Feature extraction, Fine tuning.
+
++ Object detection & Semantic Segmentation. A general idea.
     * Some examples
++ Transfer learning: Feature extraction, Fine tuning.
+    
 
     
 
