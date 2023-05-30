@@ -45,7 +45,7 @@ Material for course: _Introductory course to Machine learning and Deep Learning 
 
 ## Lesson 6: _Other applications of NN's with images_
 
-+ Object detection & Semantic Segmentation. A general idea.
++ [Object detection & Semantic Segmentation. A general idea.](https://github.com/sgcortes/2023_NAPLES/blob/7e8290f9d223f0ccaf193b035299c79099375b31/Lect6_1_DL_%20ObjectDetection%26SemanticSegmentationV3.pdf)
     * Some examples
 + Transfer learning: Feature extraction, Fine tuning.
     
